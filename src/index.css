@@ -76,4 +76,5 @@ input{
 li{
   display: inline;
   margin: 10px;
+  overflow-wrap:break-word;
 }
